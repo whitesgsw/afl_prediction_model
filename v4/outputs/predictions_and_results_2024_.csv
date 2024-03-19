@@ -1,0 +1,208 @@
+MatchNumber,RoundNumber,DateUtc,Location,HomeTeam,AwayTeam,Group,HomeTeamScore,AwayTeamScore,predicted_home,predicted_away,predicted_winner,winner,predicted_margin,actual_margin,correct
+1,0,2024-03-07 08:30:00Z,SCG,Sydney Swans,Melbourne,,86.0,64.0,68,71,Melbourne,Sydney Swans,-3,22.0,0
+2,0,2024-03-08 08:40:00Z,Gabba,Brisbane Lions,Carlton,,85.0,86.0,91,70,Brisbane Lions,Carlton,21,-1.0,0
+3,0,2024-03-09 05:20:00Z,Heritage Bank Stadium,Gold Coast Suns,Richmond,,99.0,60.0,76,91,Richmond,Gold Coast Suns,-15,39.0,0
+4,0,2024-03-09 08:30:00Z,GIANTS Stadium,GWS Giants,Collingwood,,114.0,82.0,82,69,GWS Giants,GWS Giants,13,32.0,1
+5,1,2024-03-14 08:30:00Z,MCG,Carlton,Richmond,,86.0,81.0,88,83,Carlton,Carlton,5,5.0,1
+6,1,2024-03-15 08:40:00Z,MCG,Collingwood,Sydney Swans,,69.0,102.0,66,47,Collingwood,Sydney Swans,19,-33.0,0
+7,1,2024-03-16 02:45:00Z,MCG,Essendon,Hawthorn,,107.0,83.0,100,82,Essendon,Essendon,18,24.0,1
+8,1,2024-03-16 05:35:00Z,GIANTS Stadium,GWS Giants,North Melbourne,,121.0,82.0,58,81,North Melbourne,GWS Giants,-23,39.0,0
+9,1,2024-03-16 08:30:00Z,GMHBA Stadium,Geelong Cats,St Kilda,,76.0,68.0,99,66,Geelong Cats,Geelong Cats,33,8.0,1
+10,1,2024-03-16 09:10:00Z,Heritage Bank Stadium,Gold Coast Suns,Adelaide Crows,,60.0,54.0,99,80,Gold Coast Suns,Gold Coast Suns,19,6.0,1
+11,1,2024-03-17 02:00:00Z,MCG,Melbourne,Western Bulldogs,,109.0,64.0,108,67,Melbourne,Melbourne,41,45.0,1
+12,1,2024-03-17 05:00:00Z,Adelaide Oval,Port Adelaide,West Coast Eagles,,120.0,70.0,108,52,Port Adelaide,Port Adelaide,56,50.0,1
+13,1,2024-03-17 07:50:00Z,Optus Stadium,Fremantle,Brisbane Lions,,93.0,70.0,80,89,Brisbane Lions,Fremantle,-9,23.0,0
+14,2,2024-03-21 08:30:00Z,MCG,St Kilda,Collingwood,,,,84,105,Collingwood,Draw,-21,,0
+15,2,2024-03-22 08:40:00Z,Adelaide Oval,Adelaide Crows,Geelong Cats,,,,79,85,Geelong Cats,Draw,-6,,0
+16,2,2024-03-23 02:45:00Z,Marvel Stadium,North Melbourne,Fremantle,,,,36,95,Fremantle,Draw,-59,,0
+17,2,2024-03-23 05:35:00Z,MCG,Hawthorn,Melbourne,,,,50,101,Melbourne,Draw,-51,,0
+18,2,2024-03-23 08:30:00Z,SCG,Sydney Swans,Essendon,,,,90,70,Sydney Swans,Draw,20,,0
+19,2,2024-03-24 02:00:00Z,Mars Stadium,Western Bulldogs,Gold Coast Suns,,,,105,72,Western Bulldogs,Draw,33,,0
+20,2,2024-03-24 05:00:00Z,MCG,Richmond,Port Adelaide,,,,79,69,Richmond,Draw,10,,0
+21,2,2024-03-24 07:50:00Z,Optus Stadium,West Coast Eagles,GWS Giants,,,,87,67,West Coast Eagles,Draw,20,,0
+22,3,2024-03-28 08:30:00Z,Gabba,Brisbane Lions,Collingwood,,,,102,76,Brisbane Lions,Draw,26,,0
+23,3,2024-03-29 05:20:00Z,Marvel Stadium,North Melbourne,Carlton,,,,78,92,Carlton,Draw,-14,,0
+24,3,2024-03-29 08:20:00Z,Optus Stadium,Fremantle,Adelaide Crows,,,,0,0,Draw,Draw,0,,1
+25,3,2024-03-30 05:20:00Z,Marvel Stadium,Essendon,St Kilda,,,,117,70,Essendon,Draw,47,,0
+26,3,2024-03-30 08:30:00Z,Adelaide Oval,Port Adelaide,Melbourne,,,,59,70,Melbourne,Draw,-11,,0
+27,3,2024-03-31 02:00:00Z,Marvel Stadium,Western Bulldogs,West Coast Eagles,,,,86,85,Western Bulldogs,Draw,1,,0
+28,3,2024-03-31 05:00:00Z,MCG,Richmond,Sydney Swans,,,,75,89,Sydney Swans,Draw,-14,,0
+29,3,2024-04-01 04:20:00Z,MCG,Hawthorn,Geelong Cats,,,,89,90,Geelong Cats,Draw,-1,,0
+30,4,2024-04-04 08:40:00Z,Adelaide Oval,Adelaide Crows,Melbourne,,,,70,95,Melbourne,Draw,-25,,0
+31,4,2024-04-05 06:10:00Z,Norwood Oval,Brisbane Lions,North Melbourne,,,,147,67,Brisbane Lions,Draw,80,,0
+32,4,2024-04-05 09:10:00Z,Adelaide Oval,Port Adelaide,Essendon,,,,89,65,Port Adelaide,Draw,24,,0
+33,4,2024-04-06 02:30:00Z,Adelaide Hills,West Coast Eagles,Sydney Swans,,,,64,98,Sydney Swans,Draw,-34,,0
+34,4,2024-04-06 05:20:00Z,Adelaide Oval,Fremantle,Carlton,,,,63,76,Carlton,Draw,-13,,0
+35,4,2024-04-06 09:10:00Z,Adelaide Oval,Western Bulldogs,Geelong Cats,,,,74,85,Geelong Cats,Draw,-11,,0
+36,4,2024-04-07 02:30:00Z,Adelaide Hills,Gold Coast Suns,GWS Giants,,,,43,85,GWS Giants,Draw,-42,,0
+37,4,2024-04-07 05:20:00Z,Norwood Oval,Richmond,St Kilda,,,,66,65,Richmond,Draw,1,,0
+38,4,2024-04-07 07:10:00Z,Adelaide Oval,Collingwood,Hawthorn,,,,61,26,Collingwood,Draw,35,,0
+39,5,2024-04-11 09:30:00Z,MCG,Melbourne,Brisbane Lions,,,,95,79,Melbourne,Draw,16,,0
+40,5,2024-04-12 09:40:00Z,Marvel Stadium,Western Bulldogs,Essendon,,,,92,67,Western Bulldogs,Draw,25,,0
+41,5,2024-04-13 03:45:00Z,Manuka Oval,GWS Giants,St Kilda,,,,77,88,St Kilda,Draw,-11,,0
+42,5,2024-04-13 06:35:00Z,Marvel Stadium,Carlton,Adelaide Crows,,,,89,71,Carlton,Draw,18,,0
+43,5,2024-04-13 09:30:00Z,Heritage Bank Stadium,Gold Coast Suns,Hawthorn,,,,108,48,Gold Coast Suns,Draw,60,,0
+44,5,2024-04-13 09:30:00Z,Adelaide Oval,Port Adelaide,Fremantle,,,,117,67,Port Adelaide,Draw,50,,0
+45,5,2024-04-14 03:00:00Z,GMHBA Stadium,Geelong Cats,North Melbourne,,,,110,47,Geelong Cats,Draw,63,,0
+46,5,2024-04-14 06:00:00Z,Optus Stadium,West Coast Eagles,Richmond,,,,61,121,Richmond,Draw,-60,,0
+47,6,2024-04-18 09:30:00Z,Marvel Stadium,St Kilda,Western Bulldogs,,,,81,61,St Kilda,Draw,20,,0
+48,6,2024-04-19 09:40:00Z,Adelaide Oval,Adelaide Crows,Essendon,,,,67,74,Essendon,Draw,-7,,0
+49,6,2024-04-20 03:45:00Z,MCG,Collingwood,Port Adelaide,,,,93,67,Collingwood,Draw,26,,0
+50,6,2024-04-20 06:35:00Z,Marvel Stadium,Carlton,GWS Giants,,,,82,83,GWS Giants,Draw,-1,,0
+51,6,2024-04-20 09:30:00Z,Gabba,Brisbane Lions,Geelong Cats,,,,67,61,Brisbane Lions,Draw,6,,0
+52,6,2024-04-20 10:10:00Z,Optus Stadium,West Coast Eagles,Fremantle,,,,61,105,Fremantle,Draw,-44,,0
+53,6,2024-04-21 03:00:00Z,SCG,Sydney Swans,Gold Coast Suns,,,,96,77,Sydney Swans,Draw,19,,0
+54,6,2024-04-21 06:00:00Z,Marvel Stadium,North Melbourne,Hawthorn,,,,57,98,Hawthorn,Draw,-41,,0
+55,7,2024-04-24 09:25:00Z,MCG,Richmond,Melbourne,,,,80,93,Melbourne,Draw,-13,,0
+56,7,2024-04-25 05:20:00Z,MCG,Essendon,Collingwood,,,,63,86,Collingwood,Draw,-23,,0
+57,7,2024-04-25 09:30:00Z,Manuka Oval,GWS Giants,Brisbane Lions,,,,75,99,Brisbane Lions,Draw,-24,,0
+58,7,2024-04-26 09:40:00Z,Adelaide Oval,Port Adelaide,St Kilda,,,,77,52,Port Adelaide,Draw,25,,0
+59,7,2024-04-27 03:45:00Z,Blundstone Arena,North Melbourne,Adelaide Crows,,,,71,95,Adelaide Crows,Draw,-24,,0
+60,7,2024-04-27 06:35:00Z,MCG,Geelong Cats,Carlton,,,,94,76,Geelong Cats,Draw,18,,0
+61,7,2024-04-27 09:30:00Z,Optus Stadium,Fremantle,Western Bulldogs,,,,67,89,Western Bulldogs,Draw,-22,,0
+62,7,2024-04-28 03:00:00Z,Heritage Bank Stadium,Gold Coast Suns,West Coast Eagles,,,,104,88,Gold Coast Suns,Draw,16,,0
+63,7,2024-04-28 06:00:00Z,MCG,Hawthorn,Sydney Swans,,,,67,110,Sydney Swans,Draw,-43,,0
+64,8,2024-05-02 09:30:00Z,Adelaide Oval,Adelaide Crows,Port Adelaide,,,,88,75,Adelaide Crows,Draw,13,,0
+65,8,2024-05-03 09:40:00Z,MCG,Carlton,Collingwood,,,,66,86,Collingwood,Draw,-20,,0
+66,8,2024-05-04 03:45:00Z,SCG,Sydney Swans,GWS Giants,,,,90,72,Sydney Swans,Draw,18,,0
+67,8,2024-05-04 06:35:00Z,Marvel Stadium,St Kilda,North Melbourne,,,,85,62,St Kilda,Draw,23,,0
+68,8,2024-05-04 09:30:00Z,MCG,Melbourne,Geelong Cats,,,,97,48,Melbourne,Draw,49,,0
+69,8,2024-05-04 10:10:00Z,Optus Stadium,West Coast Eagles,Essendon,,,,77,83,Essendon,Draw,-6,,0
+70,8,2024-05-05 03:00:00Z,MCG,Richmond,Fremantle,,,,51,44,Richmond,Draw,7,,0
+71,8,2024-05-05 06:00:00Z,Marvel Stadium,Western Bulldogs,Hawthorn,,,,101,72,Western Bulldogs,Draw,29,,0
+72,8,2024-05-05 09:10:00Z,Gabba,Brisbane Lions,Gold Coast Suns,,,,110,69,Brisbane Lions,Draw,41,,0
+73,9,2024-05-09 09:30:00Z,MCG,Carlton,Melbourne,,,,62,66,Melbourne,Draw,-4,,0
+74,9,2024-05-10 09:10:00Z,GMHBA Stadium,Geelong Cats,Port Adelaide,,,,93,62,Geelong Cats,Draw,31,,0
+75,9,2024-05-10 10:20:00Z,Optus Stadium,Fremantle,Sydney Swans,,,,69,80,Sydney Swans,Draw,-11,,0
+76,9,2024-05-11 03:45:00Z,UTAS Stadium,Hawthorn,St Kilda,,,,84,132,St Kilda,Draw,-48,,0
+77,9,2024-05-11 06:35:00Z,Marvel Stadium,Essendon,GWS Giants,,,,73,69,Essendon,Draw,4,,0
+78,9,2024-05-11 09:30:00Z,MCG,Richmond,Western Bulldogs,,,,87,74,Richmond,Draw,13,,0
+79,9,2024-05-11 09:30:00Z,TIO Stadium,Gold Coast Suns,North Melbourne,,,,98,46,Gold Coast Suns,Draw,52,,0
+80,9,2024-05-12 03:00:00Z,Marvel Stadium,Collingwood,West Coast Eagles,,,,79,74,Collingwood,Draw,5,,0
+81,9,2024-05-12 06:00:00Z,Adelaide Oval,Adelaide Crows,Brisbane Lions,,,,81,93,Brisbane Lions,Draw,-12,,0
+82,10,2024-05-16 09:30:00Z,TIO Stadium,Gold Coast Suns,Geelong Cats,,,,68,82,Geelong Cats,Draw,-14,,0
+83,10,2024-05-17 09:40:00Z,SCG,Sydney Swans,Carlton,,,,83,65,Sydney Swans,Draw,18,,0
+84,10,2024-05-18 03:45:00Z,MCG,Collingwood,Adelaide Crows,,,,84,72,Collingwood,Draw,12,,0
+85,10,2024-05-18 06:35:00Z,GIANTS Stadium,GWS Giants,Western Bulldogs,,,,83,98,Western Bulldogs,Draw,-15,,0
+86,10,2024-05-18 09:30:00Z,Marvel Stadium,St Kilda,Fremantle,,,,74,69,St Kilda,Draw,5,,0
+87,10,2024-05-18 09:30:00Z,Gabba,Brisbane Lions,Richmond,,,,105,73,Brisbane Lions,Draw,32,,0
+88,10,2024-05-19 03:10:00Z,Marvel Stadium,Essendon,North Melbourne,,,,108,76,Essendon,Draw,32,,0
+89,10,2024-05-19 05:20:00Z,Adelaide Oval,Port Adelaide,Hawthorn,,,,105,99,Port Adelaide,Draw,6,,0
+90,10,2024-05-19 08:20:00Z,Optus Stadium,West Coast Eagles,Melbourne,,,,59,98,Melbourne,Draw,-39,,0
+91,11,2024-05-23 09:30:00Z,Marvel Stadium,Western Bulldogs,Sydney Swans,,,,66,68,Sydney Swans,Draw,-2,,0
+92,11,2024-05-24 10:10:00Z,Optus Stadium,Fremantle,Collingwood,,,,49,69,Collingwood,Draw,-20,,0
+93,11,2024-05-25 03:45:00Z,Blundstone Arena,North Melbourne,Port Adelaide,,,,64,113,Port Adelaide,Draw,-49,,0
+94,11,2024-05-25 03:45:00Z,Marvel Stadium,Carlton,Gold Coast Suns,,,,92,70,Carlton,Draw,22,,0
+95,11,2024-05-25 06:35:00Z,GMHBA Stadium,Geelong Cats,GWS Giants,,,,81,77,Geelong Cats,Draw,4,,0
+96,11,2024-05-25 09:40:00Z,MCG,Richmond,Essendon,,,,75,53,Richmond,Draw,22,,0
+97,11,2024-05-26 03:10:00Z,Marvel Stadium,Hawthorn,Brisbane Lions,,,,95,85,Hawthorn,Draw,10,,0
+98,11,2024-05-26 05:20:00Z,MCG,Melbourne,St Kilda,,,,69,59,Melbourne,Draw,10,,0
+99,11,2024-05-26 06:40:00Z,Adelaide Oval,Adelaide Crows,West Coast Eagles,,,,115,66,Adelaide Crows,Draw,49,,0
+100,12,2024-05-30 09:30:00Z,Adelaide Oval,Port Adelaide,Carlton,,,,123,54,Port Adelaide,Draw,69,,0
+101,12,2024-05-31 09:40:00Z,Marvel Stadium,Collingwood,Western Bulldogs,,,,58,83,Western Bulldogs,Draw,-25,,0
+102,12,2024-06-01 03:45:00Z,MCG,Hawthorn,Adelaide Crows,,,,82,75,Hawthorn,Draw,7,,0
+103,12,2024-06-01 06:35:00Z,Optus Stadium,West Coast Eagles,St Kilda,,,,75,85,St Kilda,Draw,-10,,0
+104,12,2024-06-01 09:30:00Z,GMHBA Stadium,Geelong Cats,Richmond,,,,80,70,Geelong Cats,Draw,10,,0
+105,12,2024-06-02 03:00:00Z,TIO Traeger Park,Melbourne,Fremantle,,,,67,73,Fremantle,Draw,-6,,0
+106,12,2024-06-02 06:00:00Z,Heritage Bank Stadium,Gold Coast Suns,Essendon,,,,54,91,Essendon,Draw,-37,,0
+107,13,2024-06-06 09:30:00Z,Adelaide Oval,Adelaide Crows,Richmond,,,,80,89,Richmond,Draw,-9,,0
+108,13,2024-06-07 09:40:00Z,Marvel Stadium,Western Bulldogs,Brisbane Lions,,,,75,60,Western Bulldogs,Draw,15,,0
+109,13,2024-06-08 03:45:00Z,UTAS Stadium,Hawthorn,GWS Giants,,,,72,39,Hawthorn,Draw,33,,0
+110,13,2024-06-08 06:35:00Z,Optus Stadium,West Coast Eagles,North Melbourne,,,,74,69,West Coast Eagles,Draw,5,,0
+111,13,2024-06-08 09:30:00Z,Marvel Stadium,St Kilda,Gold Coast Suns,,,,99,65,St Kilda,Draw,34,,0
+112,13,2024-06-09 05:20:00Z,SCG,Sydney Swans,Geelong Cats,,,,78,75,Sydney Swans,Draw,3,,0
+113,13,2024-06-09 09:20:00Z,MCG,Essendon,Carlton,,,,71,81,Carlton,Draw,-10,,0
+114,13,2024-06-10 05:20:00Z,MCG,Collingwood,Melbourne,,,,72,57,Collingwood,Draw,15,,0
+115,14,2024-06-14 09:40:00Z,Gabba,Brisbane Lions,St Kilda,,,,71,66,Brisbane Lions,Draw,5,,0
+116,14,2024-06-15 03:45:00Z,Marvel Stadium,Western Bulldogs,Fremantle,,,,95,78,Western Bulldogs,Draw,17,,0
+117,14,2024-06-15 06:35:00Z,MCG,Richmond,Hawthorn,,,,95,78,Richmond,Draw,17,,0
+118,14,2024-06-15 09:30:00Z,Adelaide Oval,Adelaide Crows,Sydney Swans,,,,72,75,Sydney Swans,Draw,-3,,0
+119,14,2024-06-16 03:00:00Z,Marvel Stadium,North Melbourne,Collingwood,,,,77,95,Collingwood,Draw,-18,,0
+120,14,2024-06-16 06:00:00Z,GIANTS Stadium,GWS Giants,Port Adelaide,,,,73,91,Port Adelaide,Draw,-18,,0
+121,15,2024-06-21 09:40:00Z,MCG,Carlton,Geelong Cats,,,,70,81,Geelong Cats,Draw,-11,,0
+122,15,2024-06-22 03:45:00Z,Adelaide Oval,Port Adelaide,Brisbane Lions,,,,102,77,Port Adelaide,Draw,25,,0
+123,15,2024-06-22 06:35:00Z,GIANTS Stadium,GWS Giants,Sydney Swans,,,,83,100,Sydney Swans,Draw,-17,,0
+124,15,2024-06-22 09:30:00Z,MCG,Melbourne,North Melbourne,,,,119,46,Melbourne,Draw,73,,0
+125,15,2024-06-23 03:00:00Z,Marvel Stadium,Essendon,West Coast Eagles,,,,78,69,Essendon,Draw,9,,0
+126,15,2024-06-23 06:00:00Z,Optus Stadium,Fremantle,Gold Coast Suns,,,,94,75,Fremantle,Draw,19,,0
+127,16,2024-06-28 02:00:00Z,Gabba,Brisbane Lions,Melbourne,,,,83,97,Melbourne,Draw,-14,,0
+128,16,2024-06-28 02:00:00Z,MCG,Geelong Cats,Essendon,,,,114,55,Geelong Cats,Draw,59,,0
+129,16,2024-06-28 02:00:00Z,Heritage Bank Stadium,Gold Coast Suns,Collingwood,,,,53,97,Collingwood,Draw,-44,,0
+130,16,2024-06-28 02:00:00Z,Marvel Stadium,North Melbourne,Western Bulldogs,,,,76,129,Western Bulldogs,Draw,-53,,0
+131,16,2024-06-28 02:00:00Z,MCG,Richmond,Carlton,,,,80,67,Richmond,Draw,13,,0
+132,16,2024-06-28 02:00:00Z,Marvel Stadium,St Kilda,Port Adelaide,,,,65,75,Port Adelaide,Draw,-10,,0
+133,16,2024-06-28 02:00:00Z,SCG,Sydney Swans,Fremantle,,,,85,86,Fremantle,Draw,-1,,0
+134,16,2024-06-28 02:30:00Z,Adelaide Oval,Adelaide Crows,GWS Giants,,,,55,87,GWS Giants,Draw,-32,,0
+135,16,2024-06-28 04:00:00Z,Optus Stadium,West Coast Eagles,Hawthorn,,,,76,65,West Coast Eagles,Draw,11,,0
+136,17,2024-07-05 02:00:00Z,Gabba,Brisbane Lions,Adelaide Crows,,,,99,76,Brisbane Lions,Draw,23,,0
+137,17,2024-07-05 02:00:00Z,MCG,Collingwood,Essendon,,,,80,77,Collingwood,Draw,3,,0
+138,17,2024-07-05 02:00:00Z,GMHBA Stadium,Geelong Cats,Hawthorn,,,,97,56,Geelong Cats,Draw,41,,0
+139,17,2024-07-05 02:00:00Z,GIANTS Stadium,GWS Giants,Carlton,,,,78,74,GWS Giants,Draw,4,,0
+140,17,2024-07-05 02:00:00Z,MCG,Melbourne,West Coast Eagles,,,,76,86,West Coast Eagles,Draw,-10,,0
+141,17,2024-07-05 02:00:00Z,Marvel Stadium,North Melbourne,Gold Coast Suns,,,,95,98,Gold Coast Suns,Draw,-3,,0
+142,17,2024-07-05 02:00:00Z,Marvel Stadium,St Kilda,Sydney Swans,,,,84,70,St Kilda,Draw,14,,0
+143,17,2024-07-05 02:30:00Z,Adelaide Oval,Port Adelaide,Western Bulldogs,,,,69,78,Western Bulldogs,Draw,-9,,0
+144,17,2024-07-05 04:00:00Z,Optus Stadium,Fremantle,Richmond,,,,67,75,Richmond,Draw,-8,,0
+145,18,2024-07-12 02:00:00Z,MCG,Collingwood,Geelong Cats,,,,88,91,Geelong Cats,Draw,-3,,0
+146,18,2024-07-12 02:00:00Z,Heritage Bank Stadium,Gold Coast Suns,Port Adelaide,,,,34,77,Port Adelaide,Draw,-43,,0
+147,18,2024-07-12 02:00:00Z,UTAS Stadium,Hawthorn,Fremantle,,,,59,93,Fremantle,Draw,-34,,0
+148,18,2024-07-12 02:00:00Z,MCG,Melbourne,Essendon,,,,101,86,Melbourne,Draw,15,,0
+149,18,2024-07-12 02:00:00Z,MCG,Richmond,GWS Giants,,,,102,65,Richmond,Draw,37,,0
+150,18,2024-07-12 02:00:00Z,SCG,Sydney Swans,North Melbourne,,,,85,76,Sydney Swans,Draw,9,,0
+151,18,2024-07-12 02:00:00Z,Marvel Stadium,Western Bulldogs,Carlton,,,,90,97,Carlton,Draw,-7,,0
+152,18,2024-07-12 02:30:00Z,Adelaide Oval,Adelaide Crows,St Kilda,,,,88,77,Adelaide Crows,Draw,11,,0
+153,18,2024-07-12 04:00:00Z,Optus Stadium,West Coast Eagles,Brisbane Lions,,,,0,0,Draw,Draw,0,,1
+154,19,2024-07-19 02:00:00Z,Gabba,Brisbane Lions,Sydney Swans,,,,97,98,Sydney Swans,Draw,-1,,0
+155,19,2024-07-19 02:00:00Z,Marvel Stadium,Carlton,North Melbourne,,,,95,91,Carlton,Draw,4,,0
+156,19,2024-07-19 02:00:00Z,Marvel Stadium,Essendon,Adelaide Crows,,,,104,85,Essendon,Draw,19,,0
+157,19,2024-07-19 02:00:00Z,GMHBA Stadium,Geelong Cats,Western Bulldogs,,,,93,87,Geelong Cats,Draw,6,,0
+158,19,2024-07-19 02:00:00Z,GIANTS Stadium,GWS Giants,Gold Coast Suns,,,,93,63,GWS Giants,Draw,30,,0
+159,19,2024-07-19 02:00:00Z,MCG,Hawthorn,Collingwood,,,,89,72,Hawthorn,Draw,17,,0
+160,19,2024-07-19 02:00:00Z,Marvel Stadium,St Kilda,West Coast Eagles,,,,79,81,West Coast Eagles,Draw,-2,,0
+161,19,2024-07-19 02:30:00Z,Adelaide Oval,Port Adelaide,Richmond,,,,77,75,Port Adelaide,Draw,2,,0
+162,19,2024-07-19 04:00:00Z,Optus Stadium,Fremantle,Melbourne,,,,41,85,Melbourne,Draw,-44,,0
+163,20,2024-07-26 02:00:00Z,Marvel Stadium,Carlton,Port Adelaide,,,,93,81,Carlton,Draw,12,,0
+164,20,2024-07-26 02:00:00Z,MCG,Collingwood,Richmond,,,,57,52,Collingwood,Draw,5,,0
+165,20,2024-07-26 02:00:00Z,Heritage Bank Stadium,Gold Coast Suns,Brisbane Lions,,,,80,97,Brisbane Lions,Draw,-17,,0
+166,20,2024-07-26 02:00:00Z,MCG,Melbourne,GWS Giants,,,,74,58,Melbourne,Draw,16,,0
+167,20,2024-07-26 02:00:00Z,Blundstone Arena,North Melbourne,Geelong Cats,,,,60,96,Geelong Cats,Draw,-36,,0
+168,20,2024-07-26 02:00:00Z,Marvel Stadium,St Kilda,Essendon,,,,82,76,St Kilda,Draw,6,,0
+169,20,2024-07-26 02:00:00Z,SCG,Sydney Swans,Western Bulldogs,,,,84,72,Sydney Swans,Draw,12,,0
+170,20,2024-07-26 02:30:00Z,Adelaide Oval,Adelaide Crows,Hawthorn,,,,83,84,Hawthorn,Draw,-1,,0
+171,20,2024-07-26 04:00:00Z,Optus Stadium,Fremantle,West Coast Eagles,,,,77,65,Fremantle,Draw,12,,0
+172,21,2024-08-02 02:00:00Z,MCG,Collingwood,Carlton,,,,75,87,Carlton,Draw,-12,,0
+173,21,2024-08-02 02:00:00Z,MCG,Essendon,Fremantle,,,,66,79,Fremantle,Draw,-13,,0
+174,21,2024-08-02 02:00:00Z,GMHBA Stadium,Geelong Cats,Adelaide Crows,,,,95,66,Geelong Cats,Draw,29,,0
+175,21,2024-08-02 02:00:00Z,Manuka Oval,GWS Giants,Hawthorn,,,,75,71,GWS Giants,Draw,4,,0
+176,21,2024-08-02 02:00:00Z,Marvel Stadium,North Melbourne,Richmond,,,,98,82,North Melbourne,Draw,16,,0
+177,21,2024-08-02 02:00:00Z,Marvel Stadium,St Kilda,Brisbane Lions,,,,59,87,Brisbane Lions,Draw,-28,,0
+178,21,2024-08-02 02:00:00Z,Marvel Stadium,Western Bulldogs,Melbourne,,,,87,83,Western Bulldogs,Draw,4,,0
+179,21,2024-08-02 02:30:00Z,Adelaide Oval,Port Adelaide,Sydney Swans,,,,78,61,Port Adelaide,Draw,17,,0
+180,21,2024-08-02 04:00:00Z,Optus Stadium,West Coast Eagles,Gold Coast Suns,,,,65,93,Gold Coast Suns,Draw,-28,,0
+181,22,2024-08-09 02:00:00Z,Gabba,Brisbane Lions,GWS Giants,,,,109,83,Brisbane Lions,Draw,26,,0
+182,22,2024-08-09 02:00:00Z,MCG,Carlton,Hawthorn,,,,76,72,Carlton,Draw,4,,0
+183,22,2024-08-09 02:00:00Z,Marvel Stadium,Essendon,Gold Coast Suns,,,,102,78,Essendon,Draw,24,,0
+184,22,2024-08-09 02:00:00Z,MCG,Melbourne,Port Adelaide,,,,65,79,Port Adelaide,Draw,-14,,0
+185,22,2024-08-09 02:00:00Z,Blundstone Arena,North Melbourne,West Coast Eagles,,,,76,66,North Melbourne,Draw,10,,0
+186,22,2024-08-09 02:00:00Z,Marvel Stadium,Richmond,St Kilda,,,,66,65,Richmond,Draw,1,,0
+187,22,2024-08-09 02:00:00Z,SCG,Sydney Swans,Collingwood,,,,84,69,Sydney Swans,Draw,15,,0
+188,22,2024-08-09 02:30:00Z,Adelaide Oval,Adelaide Crows,Western Bulldogs,,,,0,0,Draw,Draw,0,,1
+189,22,2024-08-09 04:00:00Z,Optus Stadium,Fremantle,Geelong Cats,,,,65,77,Geelong Cats,Draw,-12,,0
+190,23,2024-08-16 02:00:00Z,MCG,Collingwood,Brisbane Lions,,,,93,95,Brisbane Lions,Draw,-2,,0
+191,23,2024-08-16 02:00:00Z,Marvel Stadium,Essendon,Sydney Swans,,,,96,99,Sydney Swans,Draw,-3,,0
+192,23,2024-08-16 02:00:00Z,Heritage Bank Stadium,Gold Coast Suns,Melbourne,,,,69,88,Melbourne,Draw,-19,,0
+193,23,2024-08-16 02:00:00Z,GIANTS Stadium,GWS Giants,Fremantle,,,,89,68,GWS Giants,Draw,21,,0
+194,23,2024-08-16 02:00:00Z,MCG,Hawthorn,Richmond,,,,84,108,Richmond,Draw,-24,,0
+195,23,2024-08-16 02:00:00Z,Marvel Stadium,St Kilda,Geelong Cats,,,,76,68,St Kilda,Draw,8,,0
+196,23,2024-08-16 02:00:00Z,Marvel Stadium,Western Bulldogs,North Melbourne,,,,99,70,Western Bulldogs,Draw,29,,0
+197,23,2024-08-16 02:30:00Z,Adelaide Oval,Port Adelaide,Adelaide Crows,,,,96,71,Port Adelaide,Draw,25,,0
+198,23,2024-08-16 04:00:00Z,Optus Stadium,West Coast Eagles,Carlton,,,,54,119,Carlton,Draw,-65,,0
+199,24,2024-08-23 02:00:00Z,Gabba,Brisbane Lions,Essendon,,,,91,64,Brisbane Lions,Draw,27,,0
+200,24,2024-08-23 02:00:00Z,Marvel Stadium,Carlton,St Kilda,,,,68,80,St Kilda,Draw,-12,,0
+201,24,2024-08-23 02:00:00Z,GMHBA Stadium,Geelong Cats,West Coast Eagles,,,,125,61,Geelong Cats,Draw,64,,0
+202,24,2024-08-23 02:00:00Z,UTAS Stadium,Hawthorn,North Melbourne,,,,78,66,Hawthorn,Draw,12,,0
+203,24,2024-08-23 02:00:00Z,MCG,Melbourne,Collingwood,,,,76,72,Melbourne,Draw,4,,0
+204,24,2024-08-23 02:00:00Z,MCG,Richmond,Gold Coast Suns,,,,51,61,Gold Coast Suns,Draw,-10,,0
+205,24,2024-08-23 02:00:00Z,SCG,Sydney Swans,Adelaide Crows,,,,109,89,Sydney Swans,Draw,20,,0
+206,24,2024-08-23 02:00:00Z,Mars Stadium,Western Bulldogs,GWS Giants,,,,68,65,Western Bulldogs,Draw,3,,0
+207,24,2024-08-23 04:00:00Z,Optus Stadium,Fremantle,Port Adelaide,,,,71,79,Port Adelaide,Draw,-8,,0
